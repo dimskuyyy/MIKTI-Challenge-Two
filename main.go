@@ -6,4 +6,6 @@ func main(){
 	soal.QuestionOne()
 	soal.QuestionBonusOne()
 	soal.QuestionBonusTwo()
+	soal.QuestionTwoDataOne()
+	soal.QuestionTwoDataTwo()
 }
